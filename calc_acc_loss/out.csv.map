@@ -1,0 +1,11 @@
+type
+job_name
+job_folder
+model
+dataset
+epochs
+learning_rate
+batch_size
+device
+stage
+metric
